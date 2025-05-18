@@ -1,2 +1,1 @@
-# bank_race
-Race Conditions Example for Banks
+#  Race Conditions në Llogari Bankare
